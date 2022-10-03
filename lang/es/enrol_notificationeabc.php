@@ -63,8 +63,8 @@ $string['unenrolmessage_help'] = 'Personalice el mensaje que le llegará a los u
 <pre>
 {COURSENAME} = Nombre completo del curso
 {USERNAME} = Nombre de usuario
-{NOMBRE} = Nombre
-{APELLIDO} = Apellido
+{FIRSTNAME} = Nombre
+{LASTNAME} = Apellido
 {URL} = Url del curso
 </pre>';
 $string['unenrolmessagedefault'] = 'Ud ha sido desmatriculado del curso {$a->fullname} ({$a->url})';

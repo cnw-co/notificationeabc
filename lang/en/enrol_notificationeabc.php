@@ -63,8 +63,8 @@ $string['unenrolmessage_help'] = 'Personalize the message that users will come t
 <pre>
 {COURSENAME} = course fullname
 {USERNAME} = username
-{NOMBRE} = firstname
-{APELLIDO} = lastname
+{FIRSTNAME} = firstname
+{LASTNAME} = lastname
 {URL} = course url
 </pre>';
 $string['unenrolmessagedefault'] = 'You has been unenrolled from {$a->fullname} ({$a->url})';
