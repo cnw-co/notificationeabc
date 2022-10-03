@@ -35,8 +35,8 @@ $string['location_help'] = 'Personalize the message that users will come to be e
 <pre>
 {COURSENAME} = course fullname
 {USERNAME} = username
-{NOMBRE} = firstname
-{APELLIDO} = lastname
+{FIRSTNAME} = firstname
+{LASTNAME} = lastname
 {URL} = course url
 </pre>';
 $string['fecha_help'] = 'Place the period for which you want to perform the first virificación';
@@ -78,8 +78,8 @@ $string['updatedenrolmessage_help'] = 'Personalize the message that users will c
 <pre>
 {COURSENAME} = course fullname
 {USERNAME} = username
-{NOMBRE} = firstname
-{APELLIDO} = lastname
+{FIRSTNAME} = firstname
+{LASTNAME} = lastname
 {URL} = course url
 </pre>';
 $string['updatedenrolmessagedefault'] = 'Your enrolment from {$a->fullname} has been updated ({$a->url})';
